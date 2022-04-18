@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/react-master-class/static/js/main.83599cdf.js",
-    "index.html": "/react-master-class/index.html",
-    "main.83599cdf.js.map": "/react-master-class/static/js/main.83599cdf.js.map"
+    "main.js": "/portfolio/static/js/main.f669d9ae.js",
+    "index.html": "/portfolio/index.html",
+    "main.f669d9ae.js.map": "/portfolio/static/js/main.f669d9ae.js.map"
   },
   "entrypoints": [
-    "static/js/main.83599cdf.js"
+    "static/js/main.f669d9ae.js"
   ]
 }
